@@ -1,4 +1,4 @@
-module grpc-service-ref
+module github.com/14kear/sso-prettyslog
 
 go 1.21
 
